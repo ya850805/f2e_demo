@@ -1,7 +1,10 @@
 <template>
   <div id="app">
     <h1>F2E</h1>
-    <router-view/>
+    <div>
+      <router-view/>
+    </div>
+
   </div>
 </template>
 
